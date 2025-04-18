@@ -4,55 +4,52 @@
 
 ---
 
-## 💬 Ask Me About
-
-- Selenium
-- Java
-- TestNG
-- Cucumber
-- Maven
-- Git
-- Rest Assured
-- Postman
-- jenkins
-
----
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaviya-ramalingam-252664292/)
 
 --
 
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-%23FF6C37?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
 ## 📫 How to Reach Me
 
 📧 rkbevit@gmail.com 
 
+--
 
----
-
-## 📊 GitHub Stats
+## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaviya-Ramalingam&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaviya-Ramalingam&theme=radical" width="48%" />
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" />
+  </a>
+  <a href="https://testng.org/doc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testng/testng-original.svg" height="40" />
+  </a>
+  <a href="https://cucumber.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-original.svg" height="40" />
+  </a>
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
+  </a>
 </p>
 
 ---
+## 📚 My Blog
 
+[**String comparison in Java**](https://www.numpyninjaacademy.com/post/string-comparison-in-java)
+[**Data Provider-TestNg**](https://www.numpyninjaacademy.com/post/understanding-testng-data-providers)
+
+--
 _Thanks for visiting! 😊_
