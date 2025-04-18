@@ -1,4 +1,4 @@
-                                                                                     # Hi there 👋 I'm Kaviya
+                              # Hi there 👋 I'm Kaviya
 
 🎯 I’m an **SDET (Software Development Engineer in Test)** passionate about building reliable, high-quality software through automation and precision.
 
@@ -49,4 +49,4 @@
 [**Data Provider-TestNg**](https://www.numpyninjaacademy.com/post/understanding-testng-data-providers)
 
 
-                                                                                        _Thanks for visiting! 😊_
+                                     _Thanks for visiting! 😊_
