@@ -47,8 +47,8 @@
 
 ## 📚 My Blog
 
-1.[**String comparison in Java**](https://www.numpyninjaacademy.com/post/string-comparison-in-java)
-2.[**Data Provider-TestNg**](https://www.numpyninjaacademy.com/post/understanding-testng-data-providers)
+1. [**String comparison in Java**](https://www.numpyninjaacademy.com/post/string-comparison-in-java)
+2. [**Data Provider-TestNg**](https://www.numpyninjaacademy.com/post/understanding-testng-data-providers)
 
 
                                      _Thanks for visiting! 😊_
