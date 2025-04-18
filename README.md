@@ -1,4 +1,6 @@
-                              # Hi there 👋 I'm Kaviya
+<div align="center">
+  <h1><b>Hi there 👋 I'm Kaviya</b></h1>
+</div>
 
 🎯 I’m an **SDET (Software Development Engineer in Test)** passionate about building reliable, high-quality software through automation and precision.
 
