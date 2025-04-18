@@ -1,20 +1,17 @@
-# Hi there 👋 I'm Kaviya
+                                                                                     # Hi there 👋 I'm Kaviya
 
 🎯 I’m an **SDET (Software Development Engineer in Test)** passionate about building reliable, high-quality software through automation and precision.
 
----
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaviya-ramalingam-252664292/)
 
---
 
 ## 📫 How to Reach Me
 
 📧 rkbevit@gmail.com 
 
---
 
 ## 🛠️ Languages and Tools
 
@@ -25,11 +22,11 @@
   <a href="https://www.selenium.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" />
   </a>
-  <a href="https://testng.org/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testng/testng-original.svg" height="40" />
-  </a>
   <a href="https://cucumber.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-original.svg" height="40" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" />
   </a>
   <a href="https://maven.apache.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" />
@@ -45,11 +42,11 @@
   </a>
 </p>
 
----
+
 ## 📚 My Blog
 
 [**String comparison in Java**](https://www.numpyninjaacademy.com/post/string-comparison-in-java)
 [**Data Provider-TestNg**](https://www.numpyninjaacademy.com/post/understanding-testng-data-providers)
 
---
-_Thanks for visiting! 😊_
+
+                                                                                        _Thanks for visiting! 😊_
