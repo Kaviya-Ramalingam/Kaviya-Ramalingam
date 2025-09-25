@@ -25,7 +25,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" />
   </a>
   <a href="https://cucumber.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-original.svg" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Cucumber_logo.svg" height="40" />
+  </a>
+  <a href="https://rest-assured.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rest-assured/rest-assured/master/logo/rest-assured-logo.png" height="40" />
   </a>
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" />
