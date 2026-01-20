@@ -45,9 +45,9 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
   </a>
-  <a href="https://playwright.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/microsoft/playwright/main/assets/playwright-logo.svg" height="40" />
-  </a>
+ <a href="https://playwright.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" />
+</a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   </a>
