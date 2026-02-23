@@ -59,6 +59,7 @@
 1. [**String comparison in Java**](https://www.numpyninjaacademy.com/post/string-comparison-in-java)
 2. [**Data Provider-TestNg**](https://www.numpyninjaacademy.com/post/understanding-testng-data-providers)
 3. [**Boost Your Playwright Framework with Fixtures**](https://www.numpyninjaacademy.com/post/boost-your-playwright-framework-with-fixtures)
+4. [**A Simple Guide to AI, Machine Learning, Deep Learning, Gen AI & Agentic AI**](https://www.numpyninjaacademy.com/post/a-simple-guide-to-ai-machine-learning-deep-learning-gen-ai-agentic-ai)
 
 
                                      _Thanks for visiting! 😊_
